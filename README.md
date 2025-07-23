@@ -1,1 +1,1 @@
-# Gemini-2.5-Flash-Object-Detection-Colaboratory-Sample
+# Gemini-2.5-API-Object-Detection-Colaboratory-Sample
